@@ -4,5 +4,6 @@ My submission for WWDC 2020 Swift Student Challenge
 
 # Gi's Story
 In Gi’s world, you can connect with Gi’s power through the **function** to help her use her power more correctly and become a rect guardian.
+[YouTube](https://youtu.be/7ERoOJgDkFM "Video")
 ![GiStory](https://i.imgur.com/VAugDxN.png)
 This PlaygroundBook is a beginner friendly tutorial to learn to code using Apple's Swift Playgrounds.
